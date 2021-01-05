@@ -66,6 +66,7 @@ class Client():
         ----------
         	address: string
         		String of address of interest to find charging stations near
+        		
         	distance: float
         		Distance from address to look for charging stations
 
@@ -90,10 +91,7 @@ class Client():
         
         Parameters
         ----------
-        	address: string
-        		String of address of interest to find charging stations near
-        	distance: float
-        		Distance from address to look for charging stations
+        	n/a
 
         Returns
         -------
